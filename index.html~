@@ -38,13 +38,13 @@
 <i>PhD, Stanford University, 2015</i><br>
 
 </P>
-<P> Research focuses: machine learning, optimization, applied probability<br>
+<P> Research: machine learning, applied probability, stochastic analysis <br>
 </P>
 
-<P> Email: <a href="mailto:j.sirignano@imperial.ac.uk">jasirign@illinois.edu</P>
+<P> Email: <a href="mailto:jasirign@illinois.edu">jasirign@illinois.edu</P>
 
 
-<A HREF="pdf/JustinSirignano_CV.pdf" target="_blank"><b>Curriculum
+<A HREF="pdf/Justin Sirignano CV September.pdf" target="_blank"><b>Curriculum
     Vitae</B></A><P>
 <!-- <A HREF="pdf/Research_StatementV5.pdf" target="_blank"><b>Research
     Statement</B></A><P> -->
@@ -59,37 +59,47 @@
 
 <FONT SIZE="4" COLOR = #000000><b>Research Interests</b></FONT><p>
 
-<p>Justin Sirignano's research interests include machine learning, optimization, and applied probability.  Justin Sirignano is currently an Assistant Professor (tenure track) at the University of Illinois at Urbana-Champaign. Previously, he was a Chapman Fellow at the Department of Mathematics, Imperial College London (2015-2016) and received his PhD from Stanford University (2010-2015). Justin received his BSE from Princeton University (2006-2010).  <p>
+<p>Justin Sirignano is currently an Assistant Professor at the University of Illinois at Urbana-Champaign. Previously, he was a Chapman Fellow at the Department of Mathematics, Imperial College London (2015-2016) and received his PhD from Stanford University (2010-2015). Justin received his BSE from Princeton University (2006-2010).  <p>
 
-<p>  Current research interests include a broad range of applications in finance, image recognition, and autonomous aircraft/UAV flight.  In the area of finance, his research focuses on using machine learning to model (1) risk for large portfolios of loans and (2) high frequency dynamics in limit order books.  He is also interested in methods for distributed statistical learning at large scales.  Justin Sirignano's research won the 2014 SIAM Financial Mathematics and Engineering Conference Paper Prize. <p>
+<p> Justin Sirignano's research interests include machine learning and applied probability. Justin's research group and collaborators work on a range of applications in engineering and quantitative finance. Justin Sirignano's research won the 2014 SIAM Financial Mathematics and Engineering Conference Paper Prize. <p>
+
+<p>I am looking for Postdoctoral researchers and graduate students with backgrounds in applied math or machine learning. <p>
 
 <FONT SIZE="4" COLOR = #000000><b>Courses</b></FONT>
 <ul>
-	<li> <a href="/NeuralNetworks_and_DeepLearning/"
+	<li> <a href=""
         target = "_blank"> Introduction to Machine Learning </a>   (Imperial College Math Dept., Spring 2016): Master/PhD level course on machine learning. </li>  
-	<li> <a href="/"
-        target = "_blank"> Deep Learning </a>   (University of Illinois at Urbana-Champaign, Fall 2016 and 2017): Master/PhD level course on neural networks and deep learning. Topics include neural networks, deep learning, recurrent neural networks,
-neural networks for Q-learning, and applications from image classification. Training of deep neural network models using TensorFlow and GPUs.</li> 
+	<li> <a href="https://courses.engr.illinois.edu/ie534/fa2018/" target="_blank"> Deep Learning </a>  (University of Illinois at Urbana-Champaign): Master/PhD level course on deep learning. Topics include convolution neural networks, recurrent neural networks, and deep reinforcement learning.  Homeworks and projects on image classification, video recognition, and deep reinforcement learning.  Training of deep learning models using TensorFlow and GPUs. Supported by a computational grant from a national supercomputer. <A HREF="https://courses.engr.illinois.edu/ie534/fa2018/" target="_blank"> Course website </a> </li> 
+	<li> <a href=""
+   target = "_blank"> Deep Learning II </a>   (University of Illinois at Urbana-Champaign): Deep learning applications in (1) reinforcement learning, (2) image recognition, and (3) high-frequency models of financial markets. There will be a special focus on distributed training of deep learning models. Supported by a computational grant from Microsoft.  </li> 
 </ul>
 
 <FONT SIZE="4" COLOR = #000000><b>Preprints</b></FONT>
  <ul>
-	<li> <a href="pdf/SGD.pdf" target = "_blank"> "Stochastic Gradient Descent in Continuous Time"</a> (with K. Spiliopoulos).  </li>
-	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2710331" target = "_blank"> "Deep Learning for Limit Order Books"</a>.  </li>
-	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). </li>
-        <li> <a href="pdf/SGMM12b.pdf"
-        target = "_blank"> "Risk Analysis for Large Pools of Loans" </a> (with K. Giesecke).  <b>Winner of SIAM
-        Financial Mathematics and Engineering Conference Paper Prize.</b>  Minor Revision at <i>Management Science</i>.  </li>
-        <li> <a href="pdf/likelihood9_Draft.pdf" target = "_blank"> "Statistical
+ <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks"</a> (with K. Spiliopoulos). </i>  </li>
+    <li>  <a href="https://arxiv.org/abs/1710.04273" target = "_blank"> "Stochastic Gradient Descent in Continuous Time: A Central Limit Theorem"</a> (with K. Spiliopoulos). </i>  </li>
+<li> <a href="https://arxiv.org/abs/1708.07469" target = "_blank"> "DGM: A deep learning algorithm for solving partial differential equations"</a> (with K. Spiliopoulos).  </li>
+        <li> <a href="https://drive.google.com/file/d/0B1BViF7xQA_wRmVDNTB6UVpxc0U/view" target = "_blank"> "Statistical
         Inference for Large Systems"</a>  (with
-        G. Schwenkler and K. Giesecke). </li>
-		<li> Invited article for <a href="https://sinews.siam.org/Current-Issue" target = "_blank"> <i> SIAM News </i> </a> on machine learning (2017 issue). </li>
+        G. Schwenkler and K. Giesecke). Revise and resubmit at <i>Mathematical Finance</i>. </li>
+	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). </li>
+	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2710331" target = "_blank"> "Deep Learning for Limit Order Books"</a>.  </li>  
+	<li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294" target = "_blank"> "Universal features of price formation in financial markets: perspectives from Deep Learning"</a> (with Rama Cont). </i> Media coverage:  <a href="https://www.risk.net/asset-management/5447501/neural-network-learns-universal-model-for-stock-price-moves" target = "_blank"> Risk Magazine </a>  </li>
+	<li>  Book Review on deep learning, <i> SIAM Review</i>, 60(3), September 2018.  </li>
+
+
+    
 </ul>
 
 
 <FONT SIZE="4" COLOR = #000000><b>Publications</b></FONT>
  <ul>
-	<li> <a href="pdf/PropulsionANDPower.pdf" target = "_blank"> "Optimization of Secondary-Air Addition in a Continuous One-Dimensional Spray Combustor"</a> (with L. Rodriquez, A. Sideris, and W. Sirignano).  <i> Journal of Propulsion and Power</i>, 2010. </li> 
+	<li> <a href="https://arxiv.org/abs/1611.05545" target = "_blank"> "Stochastic Gradient Descent in Continuous Time"</a> (with K. Spiliopoulos).  <i> SIAM Journal on Financial Mathematics</i>,
+8(1), 933–961, 2017.  </li>
+        <li> <a href="pdf/SGMM12b.pdf"
+        target = "_blank"> "Risk Analysis for Large Pools of Loans" </a> (with K. Giesecke).  Winner of SIAM
+        Financial Mathematics and Engineering Conference Paper Prize. <i>Management Science</i>, forthcoming.  </li>
+	<li>  <a href="https://sinews.siam.org/Details-Page/deep-learning-models-in-finance-2" target = "_blank"> "Deep Learning Models in Finance"</a>.  Invited article for <i> SIAM News</i>, June 2017. </li>
         <li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2226994"
         target = "_blank"> "Fluctuation Analysis for the Loss from
         Default" </a> (with K. Giesecke and K. Spiliopoulos). <br>
@@ -100,25 +110,38 @@ neural networks for Q-learning, and applications from image classification. Trai
         target = "_blank"> "Large Portfolio Asymptotics for Loss From
         Default" </a>  (with K. Giesecke, K. Spiliopoulos, and R. Sowers).<br>
         <i>Mathematical Finance</i>, 2015. </li>
+	<li> <a href="pdf/PropulsionANDPower.pdf" target = "_blank"> "Optimization of Secondary-Air Addition in a Continuous One-Dimensional Spray Combustor"</a> (with L. Rodriquez, A. Sideris, and W. Sirignano).  <i> Journal of Propulsion and Power</i>, 2010. </li> 
         <li> <a href="pdf/FBSDE-Algorithm_v3.pdf" target = "_blank">  "A Forward-Backward Algorithm for Stochastic Control Problems" </a> (with S. Ludwig, R. Huang, and G. Papanicolaou).<br> <i>Proceedings of the First International Conference on Operations Research and Enterprise Systems</i>. Vilamoura,  Portugal. </li>  
 </ul>
 
-
-
-
-<FONT SIZE="4" COLOR = #000000><b>Presentations to Industry and Regulators </b></FONT>
+<FONT SIZE="4" COLOR = #000000><b> Computational Grants </b></FONT>
 <ul>
+<li> Blue Waters supercomputer, 347,000 node hours, value of $220,000. </li>
+</ul>
+
+
+<FONT SIZE="4" COLOR = #000000><b> Student Researchers </b></FONT>
+<ul>
+<li> Lei Fan, Xiaobo Dong, Yunxiang Zhang, Giri Tarun, and Rachneet Kaur. </li>
+</ul>
+
+
+<FONT SIZE="4" COLOR = #000000><b>Presentations to Industry </b></FONT>
+<ul>
+<li> J.P. Morgan, New York City, August 2017.  <i> Deep Learning in Finance. </i> </li>
 <li>  Bank of England, London, May 2016.  <i> Machine Learning for Loan Risk. </i> </li> 
 <li>  Winton Capital Management, London, January 2016.  <i> Modeling financial data with Neural Networks. </i> </li>  
 <li> Capital Fund Management-Imperial Workshop, London, September 2015.  <i> Risk Analysis for Loan Portfolios.</i>  </li>
 <li> Lending Club, San Francisco, June 2015.  <i> Risk Analysis for Loan Portfolios. </i> </li>
     </ul>
 
-<FONT SIZE="4" COLOR = #000000><b> Organized Minisymposiums and Sessions </b></FONT>
+
+
+<FONT SIZE="4" COLOR = #000000><b> Conference Organization </b></FONT>
 <ul>
-<li>   <i> Machine learning models and methods in finance </i> session at INFORMS Annual Meeting, Houston, October 2017. </li> 
-<li>   <i> Financial engineering </i> session at INFORMS Applied Probability Meeting, Northwestern University, July 2017. </li> 
 <li>  <a href="pdf/MLforFinanceMinisymposium.pdf" target = "_blank"> <i> Machine Learning for Finance </i> </a> minisymposium at SIAM Financial Mathematics Conference, Austin, November 2016. </li> 
+<li>   <i> Machine learning in Finance </i> session at INFORMS Annual Meeting, Houston, October 2017. </li> 
+<li>   <i> Financial engineering </i> session at INFORMS Applied Probability Meeting, Northwestern University, July 2017. </li> 
 <li> <i> Machine Learning for Finance </i> session at INFORMS Annual Meeting, Nashville, November 2016.  </li>  
 <li> <i> Large-scale Portfolio Risk </i> session at INFORMS Annual Meeting, Philadelphia, November 2015.  </li>
     </ul>
@@ -126,13 +149,16 @@ neural networks for Q-learning, and applications from image classification. Trai
 
 <FONT SIZE="4" COLOR = #000000><b>Conference and Seminar Presentations</b></FONT>
     <ul>
-	<li>  Seminar at IIT Department of Applied Mathematics, September 2017.  </li>
+    <li> SIAM Annual Conference, July 2018. </li> 
+	<li>  London Quantitative Finance Seminar, May 2018. <a href="http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/mathematics/lqfseminars/eventssummary/event_23-2-2018-14-6-23" target = "_blank"> <i> Deep Learning Models of High Frequency Financial Data. </i> </a> </li>
+	<li>  Seminar at the Department of Applied Math at the University of Colorado Boulder, April 2018. </li>
+	<li>  Deep Learning conference at the National Center for Supercomputing Applications, 2017. <i> Deep Learning for PDEs. </i> </li>
+	<li>  Seminar at Princeton University, 2017. <i> Machine Learning in Finance. </i>  </li>
+	<li>  J.P. Morgan, Machine Learning and AI Forum seminar, August 2017. <i> Deep Learning in Finance. </i>  </li>
 	<li>  Seminar at Northwestern University, April 2017.  </li>
-	<li>  Seminar at Coordinated Science Lab at UIUC, April 2017.</li>
 	<li>  Seminar at UIUC Machine Learning Seminar Series, March 2017. </li>
 	<li>  Seminar at UIUC Business School, February 2017.  <i> Deep Learning for Modeling Limit Order Books. </i> </li>
-	<li>  SIAM Financial Mathematics Conference, Austin, Texas, November 2016.  <a href="pdf/SGDslidesSIAM.pdf" target =
-        "_blank"><i>Stochastic Gradient Descent in Continuous Time</i></a> </li>
+	<li>  SIAM Financial Mathematics Conference, Austin, Texas, November 2016. </li>
 	<li>  Seminar at London Business School, London, June 2016.  <i> Deep Learning for Modeling Limit Order Books. </i> </li> 
 	<li>  Seminar at Oxford University, May 2016.  <i> Deep Learning for Modeling Financial Data. </i> </li> 
 	  <li>  Statistics Seminar at Imperial College, London, May 2016.  <i> Deep Learning for Modeling Financial Data. </i> </li> 
@@ -145,15 +171,11 @@ neural networks for Q-learning, and applications from image classification. Trai
       2014. Invited Speaker. </li>
       <li> INFORMS Annual Meeting, San Francisco, 2014.  Invited Speaker
       and Organizer of <i> Financial Risks </i> Session. </li>
-       <li>   <a href="pdf/JMM2014_MLE" target =
-        "_blank"><i>Likelihood Estimation for Large Financial Systems</i></a>.
-        Joint Mathematics Meeting, Baltimore, 2014. Invited Speaker.   </li>
-        <li> <a href="pdf/Informs2013_Fluctuation" target =
-        "_blank"><i>Fluctuation Analysis
-        for Loss from Default</i> </a>. INFORMS
+       <li>  Likelihood Estimation for Large Financial Systems.  Joint Mathematics Meeting, Baltimore, 2014. Invited Speaker.   </li>
+        <li> Fluctuation Analysis
+        for Loss from Default. INFORMS
         Annual Meeting, Minneapolis, 2013.  Invited Speaker. </li>
-	<li>   <a href="pdf/Subprime_Lecture" target = "_blank"><i>Lecture
-	on Subprime Crisis</i></a>.  For a general audience at Stanford University, 2013. </li>
+	<li>   Lecture on Subprime Crisis.  For a general audience at Stanford University, 2013. </li>
 	<li> Fifth Western Conference on Mathematical Finance, Stanford University, 2013.  Invited Speaker. </li>
 	<li> INFORMS Annual Meeting, Phoenix, October, 2012.   Invited Speaker.  </li>
 	<li> Financial Mathematics Seminar, Stanford University, 2012.  Invited Speaker.   </li>
