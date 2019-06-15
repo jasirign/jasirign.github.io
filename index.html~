@@ -93,7 +93,7 @@ Current research projects include:
 
 
  <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks"</a> (with K. Spiliopoulos). Invited Revision at <i>SIAM Journal on Applied Mathematics</i>. </li> 
-    <li>  <a href="https://arxiv.org/abs/1710.04273" target = "_blank"> "Stochastic Gradient Descent in Continuous Time: A Central Limit Theorem"</a> (with K. Spiliopoulos). </i> Invited Revision at <i>Stochastic Systems</i>.  </li>
+   
 	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). Invited revision at <i>Journal of Financial Econometrics</i>. </li>
 	<li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294" target = "_blank"> "Universal features of price formation in financial markets: perspectives from Deep Learning"</a> (with Rama Cont). </i> Media coverage:  <a href="https://www.risk.net/asset-management/5447501/neural-network-learns-universal-model-for-stock-price-moves" target = "_blank"> Risk Magazine. </a> Invited Revision at <i>Quantitative Finance</i>.  </li>
 	<li>  Book Review on deep learning, <i> SIAM Review</i>, 60(3), September 2018.  </li>
@@ -109,9 +109,15 @@ Current research projects include:
 <li> <a href="https://arxiv.org/abs/1808.09372" target = "_blank"> "Mean Field
 Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos). <i> Stochastic Processes and their Applications</i>, forthcoming 2019. </li>
 
+    <li>  <a href="https://arxiv.org/abs/1710.04273" target = "_blank"> "Stochastic Gradient Descent in Continuous Time: A Central Limit Theorem"</a> (with K. Spiliopoulos). <i>Stochastic Systems</i>, forthcoming 2019.  </li>
+
+
  <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012751" target = "_blank"> "Statistical Inference for Large Systems"</a>  (with G. Schwenkler and K. Giesecke). <i>Mathematical Finance</i>, forthcoming 2019. </li>
 
-<li> <a href="https://arxiv.org/abs/1708.07469" target = "_blank"> "DGM: A deep learning algorithm for solving partial differential equations"</a> (with K. Spiliopoulos). <i>Journal of Computational Physics</i>, forthcoming 2018.  </li>
+        <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294" target = "_blank"> "Universal features of price formation in financial markets: perspectives from Deep Learning"</a>
+(with Rama Cont). </i> Media coverage:  <a href="https://www.risk.net/asset-management/5447501/neural-network-learns-universal-model-for-stock-price-moves" target = "_blank"> Risk Magazine. <i>Quantitative Finance</i>, forthcoming 2019.  </li>
+
+<li> <a href="https://arxiv.org/abs/1708.07469" target = "_blank"> "DGM: A deep learning algorithm for solving partial differential equations"</a> (with K. Spiliopoulos). <i>Journal of Computational Physics</i>, 2018.  </li>
 
 	<li> <a href="https://arxiv.org/abs/1611.05545" target = "_blank"> "Stochastic Gradient Descent in Continuous Time"</a> (with K. Spiliopoulos).  <i> SIAM Journal on Financial Mathematics</i>,
 8(1), 933–961, 2017.  </li>
