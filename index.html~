@@ -65,13 +65,12 @@
 
 <p> Justin's research lies at the intersection of applied mathematics, machine learning, and high-performance computing. Our research group is currently working on a range of problems in mathematical finance and engineering. <p>
 
-Current research projects include: 
+Current research interests include: 
 <ul>
 
-<li> Deep learning models of financial data </li>
-<li> Solution of high-dimensional PDEs </li>
-<li> Asymptotic analysis of neural networks </li>
-<li> Deep learning for scientific and engineering applications </li>
+<li> Computational methods, machine learning algorithms, and stochastic models in mathematical finance </li>
+<li> Asymptotic analysis of deep learning models (e.g., law of large numbers, central limit theorems, and large deviation principles) </li>
+<li> Deep learning methods for scientific, engineering, and financial applications </li>
 
 </ul>
 
@@ -156,6 +155,7 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 
 <FONT SIZE="4" COLOR = #000000><b>Presentations to Industry </b></FONT>
 <ul>
+<li> Two Sigma Investments, New York City, January 2020. </li>
 <li> J.P. Morgan, New York City, August 2017.  <i> Deep Learning in Finance. </i> </li>
 <li>  Bank of England, London, May 2016.  <i> Machine Learning for Loan Risk. </i> </li> 
 <li>  Winton Capital Management, London, January 2016.  <i> Modeling financial data with Neural Networks. </i> </li>  
