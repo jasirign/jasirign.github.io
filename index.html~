@@ -92,8 +92,6 @@ Current research interests include:
 
 <li> <a href="https://arxiv.org/abs/1903.04440" target = "_blank"> "Mean Field Analysis of Deep Neural Networks" </a> (with K. Spiliopoulos).  Invited Revision at <i>Mathematics of Operations Research</i>.</li>
 
-
- <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks"</a> (with K. Spiliopoulos). Minor Revision at <i>SIAM Journal on Applied Mathematics</i>. </li> 
    
 	<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). Invited revision at <i>Journal of Financial Econometrics</i>. </li>
 	<li>  Book Review on deep learning, <i> SIAM Review</i>, 60(3), September 2018.  </li>
@@ -105,6 +103,8 @@ Current research interests include:
 
 <FONT SIZE="4" COLOR = #000000><b>Publications</b></FONT>
  <ul>
+
+ <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks: A Law of Large Numbers"</a> (with K. Spiliopoulos). <i>SIAM Journal on Applied Mathematics</i>, forthcoming 2019. </li>
 
 <li> <a href="https://arxiv.org/abs/1708.07469" target = "_blank"> "DGM: A deep learning algorithm for solving partial differential equations"</a> (with K. Spiliopoulos). <i>Journal of Computational Physics</i>, 2018.  </li>
 
