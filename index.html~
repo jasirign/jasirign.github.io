@@ -38,7 +38,7 @@
 <i>PhD, Stanford University, 2015</i><br>
 
 </P>
-<P> Research: applied mathematics, machine learning, scientific computing, financial mathematics <br>
+<P> Research: applied mathematics, machine learning, financial mathematics <br>
 </P>
 
 <P> Email: <a href="mailto:jasirign@illinois.edu">jasirign@illinois.edu</P>
@@ -63,18 +63,26 @@
 
 <p>  Previously, he was a Chapman Fellow at the Department of Mathematics, Imperial College London (2015-2016) and received his PhD from Stanford University (2010-2015). Justin received his BSE from Princeton University (2006-2010). Justin Sirignano's research won the 2014 SIAM Financial Mathematics and Engineering Conference Paper Prize and he is an Associate Editor for the journals <i>Mathematical Finance</i> and <i>Quantitative Finance</i>.  <p>
 
-<p> Justin's research lies at the intersection of applied mathematics, machine learning, and high-performance computing. Our research group is currently working on a range of problems in mathematical finance and scientific computing. <p>
-
-Current research interests include: 
+<p> I am currently working on three research topics: 
 <ul>
 
-<li> Computational methods, machine learning algorithms, and stochastic models in mathematical finance </li>
-<li> Asymptotic analysis of deep learning models (e.g., law of large numbers, central limit theorems, and large deviation principles) </li>
-<li> Deep learning methods in scientific computing and financial applications </li>
+<li> Computational methods, machine learning algorithms, and stochastic models in financial mathematics </li>
+
+
+
+<li> Asymptotic analysis of deep neural networks (e.g., law of large numbers, central limit theorems, and large deviation principles) </li>
+
+Deep learning has revolutionized image, speech, and text recognition. Due to its success, there is now broad interest in developing a better mathematical understanding of neural networks. We have rigorously proven several limit results for neural networks. The law of large numbers satisfies a nonlinear partial differential equation (PDE) while the central limit theorem satisfies a stochastic partial differential equation. 
+
+<li> Deep learning PDE models </li>
+
+Although the physics is well-understood in many applications, accurate numerical simulation (even with supercomputers) of the physics is computationally intractable. We are developing
+reduced-order partial differential equation models using deep learning. Pre-specified PDE terms capture the physics (e.g., the Navier-Stokes equation) while a deep neural network models the unresolved physics (e.g., the unclosed terms in Large-eddy Simulation). Training the neural network requires optimizing over the entire PDE; we have developed a computationally efficient approach using adjoing PDEs. 
+
+This research is connected with the Center for Exascale-enabled Scramjet Design (CEESD), where our plan is to develop predictive models for hypersonic flight design. .
 
 </ul>
 
-<p> There is an opening for a 2-year postdoc position as well as RA positions. Researchers will benefit from broad collaborations with engineers, computer scientists, and applied mathematicians. They will have access to state-of-the-art super-computing and GPU resources. Projects will leverage massive datasets (petabytes) for both financial and engineering applications. <p>
 
 <FONT SIZE="4" COLOR = #000000><b>Courses</b></FONT>
 <ul>
@@ -148,7 +156,7 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 
 <FONT SIZE="4" COLOR = #000000><b> Grants </b></FONT>
 <ul>
-<li> Co-PI for Department of Energy PSAAP III Center (2020-).
+<li> Co-PI for Department of Energy PSAAP III Center (~$17 million, 2020-).
 <li> Blue Waters supercomputer, 44 million core hours, value of $860,631. </li>
 </ul>
 
