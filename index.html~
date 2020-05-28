@@ -68,18 +68,9 @@
 
 <li> Computational methods, machine learning algorithms, and stochastic models in financial mathematics </li>
 
-
-
 <li> Asymptotic analysis of deep neural networks (e.g., law of large numbers, central limit theorems, and large deviation principles) </li>
 
-Deep learning has revolutionized image, speech, and text recognition. Due to its success, there is now broad interest in developing a better mathematical understanding of neural networks. We have rigorously proven several limit results for neural networks. The law of large numbers satisfies a nonlinear partial differential equation (PDE) while the central limit theorem satisfies a stochastic partial differential equation. 
-
-<li> Deep learning PDE models </li>
-
-Although the physics is well-understood in many applications, accurate numerical simulation (even with supercomputers) of the physics is computationally intractable. We are developing
-reduced-order partial differential equation models using deep learning. Pre-specified PDE terms capture the physics (e.g., the Navier-Stokes equation) while a deep neural network models the unresolved physics (e.g., the unclosed terms in Large-eddy Simulation). Training the neural network requires optimizing over the entire PDE; we have developed a computationally efficient approach using adjoing PDEs. 
-
-This research is connected with the Center for Exascale-enabled Scramjet Design (CEESD), where our plan is to develop predictive models for hypersonic flight design. .
+<li> Deep learning closure models in science & engineering (e.g., large-eddy simulation) </li>
 
 </ul>
 
