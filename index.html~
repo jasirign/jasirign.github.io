@@ -61,9 +61,7 @@
 
 <FONT SIZE="4" COLOR = #000000><b>Research Interests</b></FONT><p>
 
-<p>Justin Sirignano is currently an Assistant Professor at the University of Illinois at Urbana-Champaign with appointments in the Department of Industrial & Systems Engineering and the Coordinated Science Lab, where he is a member of the Signals, Inference & Networks (SINE) group.<p>
-
-<p>  Previously, he was a Chapman Fellow at the Department of Mathematics, Imperial College London (2015-2016) and received his PhD from Stanford University (2010-2015). Justin received his BSE from Princeton University (2006-2010). Justin Sirignano's research won the 2014 SIAM Financial Mathematics and Engineering Conference Paper Prize and he is an Associate Editor for the journals <i>Mathematical Finance</i> and <i>Quantitative Finance</i>.  <p>
+<p>Justin Sirignano's research focuses on the theory and applications of machine learning in financial mathematics and the computational sciences. His research won the 2014 SIAM Financial Mathematics and Engineering Conference Paper Prize and he is an Associate Editor for the journals <i>Mathematical Finance</i> and <i>Quantitative Finance</i>.  <p>
 
 <p> I am currently working on three research topics: 
 <ul>
@@ -100,7 +98,7 @@
 
 <li> <a href="https://arxiv.org/abs/1911.07304" target = "_blank"> "Asymptotics of Reinforcement Learning with Neural Networks"</a> (with K. Spiliopoulos).  </li>
 
-<li> <a href="http://arxiv.org/abs/1911.09145" target = "_blank"> "DPM: A deep learning PDE augmentation method with application to large-eddy simulation"</a> (with J. Freund and J. MacArt). <A HREF="Datasets/DPM/" target="_blank"><b>Datasets.</B></A> Invited revision at the <i>Journal of Computational Physics</i>. </li>
+<li> <a href="http://arxiv.org/abs/1911.09145" target = "_blank"> "DPM: A deep learning PDE augmentation method with application to large-eddy simulation"</a> (with J. Freund and J. MacArt). <A HREF="https://github.com/jasirign/DPM/" target="_blank"><b>Datasets.</B></A> Invited revision at the <i>Journal of Computational Physics</i>. </li>
     
 </ul>
 
