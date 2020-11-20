@@ -77,49 +77,37 @@
 
 <FONT SIZE="4" COLOR = #000000><b>Courses</b></FONT>
 <ul>
-	<li> <a href=""
-        target = "_blank"> Introduction to Machine Learning </a>   (Imperial College Math Dept., Spring 2016): Master/PhD level course on machine learning. </li>  
+	<li>  Introduction to Machine Learning    (Imperial College Math Dept., Spring 2016): Master/PhD level course on machine learning. </li>  
 	<li> <a href="https://courses.engr.illinois.edu/ie534/fa2019/" target="_blank"> Deep Learning </a>  (University of Illinois at Urbana-Champaign): Master/PhD level course on deep learning. Topics include convolution neural networks, recurrent neural networks, and deep reinforcement learning.  Homeworks and projects on image classification, video recognition, and deep reinforcement learning.  Training of deep learning models using TensorFlow and GPUs. Supported by a computational grant from a national supercomputer. <A HREF="https://courses.engr.illinois.edu/ie534/fa2019/" target="_blank"> Course website </a> </li> 
-	<li> <a href=""
-   target = "_blank"> Deep Learning II </a>   (University of Illinois at Urbana-Champaign): Deep learning applications in (1) reinforcement learning, (2) image recognition, and (3) high-frequency models of financial markets. There will be a special focus on distributed training of deep learning models. Supported by a computational grant from Microsoft.  </li> 
+	<li>  Deep Learning II (University of Illinois at Urbana-Champaign): Deep learning applications in (1) reinforcement learning, (2) image recognition, and (3) high-frequency models of financial markets. There will be a special focus on distributed training of deep learning models. Supported by a computational grant from Microsoft.  </li> 
 </ul>
 
-<FONT SIZE="4" COLOR = #000000><b>Preprints</b></FONT>
- <ul>
 
-
-
-   
-<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). Invited revision at <i>Journal of Financial Econometrics</i>. </li>
-	        
-<li> <a href="https://arxiv.org/abs/1907.04108" target = "_blank"> "A Technical Note: Scaling Limit of Neural Networks with the Xavier Initialization and Convergence to a Global Minimum" </a> (with K. Spiliopoulos).  </li>
-
-<li> <a href="https://arxiv.org/abs/1911.07304" target = "_blank"> "Asymptotics of Reinforcement Learning with Neural Networks"</a> (with K. Spiliopoulos).  </li>
-
-    
-</ul>
 
 
 <FONT SIZE="4" COLOR = #000000><b>Publications</b></FONT>
- <ul>
+ <ol>
 
 <li> <a href="https://arxiv.org/abs/1903.04440" target = "_blank"> "Mean Field Analysis of Deep Neural Networks"</a> (with K. Spiliopoulos). <i>Mathematics of Operations Research</i>, accepted 2020.</li>
 
-<li> <a href="http://arxiv.org/abs/1911.09145" target = "_blank"> "DPM: A deep learning PDE augmentation method with application to large-eddy simulation"</a> (with J. Freund and J. MacArt). <A HREF="https://github.com/jasirign/DPM/" target="_blank"><b>Datasets.</B></A> <i>Journal of Computational Physics</i>, accepted 2020. </li>
+
+<li> <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2799443" target = "_blank"> "Deep Learning for Mortgage Risk"</a> (with A. Sadhwani and K. Giesecke). <i>Journal of Financial Econometrics</i>, accepted 2020. </li>
+
+ <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks: A Law of Large Numbers"</a> (with K. Spiliopoulos).
+<i>SIAM Journal on Applied Mathematics</i>, 2020. </li>
+
+ <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012751" target = "_blank"> "Inference for large financial systems" </a>  (with G. Schwenkler and K. Giesecke). <i>Mathematical Finance</i>, 2020. </li>
 
 
-
- <li>  <a href="https://arxiv.org/abs/1805.01053" target = "_blank"> "Mean Field Analysis of Neural Networks: A Law of Large Numbers"</a> (with K. Spiliopoulos). <i>SIAM Journal on Applied Mathematics</i>, 2020. </li>
+<li> <a href="https://arxiv.org/abs/1911.07304" target = "_blank"> "Asymptotics of Reinforcement Learning with Neural Networks"</a> (with K. Spiliopoulos). Invited Revision at <i>Stochastic Systems</i>, 2020.  </li>
 
 <li> <a href="https://arxiv.org/abs/1708.07469" target = "_blank"> "DGM: A deep learning algorithm for solving partial differential equations"</a> (with K. Spiliopoulos). <i>Journal of Computational Physics</i>, 2018.  </li>
 
 <li> <a href="https://arxiv.org/abs/1808.09372" target = "_blank"> "Mean Field
 Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos). <i> Stochastic Processes and their Applications</i>, 2019. </li>
 
+
     <li>  <a href="https://arxiv.org/abs/1710.04273" target = "_blank"> "Stochastic Gradient Descent in Continuous Time: A Central Limit Theorem"</a> (with K. Spiliopoulos). <i>Stochastic Systems</i>, 2020.  </li>
-
-
- <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012751" target = "_blank"> "Inference for large financial systems" </a>  (with G. Schwenkler and K. Giesecke). <i>Mathematical Finance</i>, 2020. </li>
 
         <li>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294" target = "_blank"> "Universal features of price formation in financial markets: perspectives from Deep Learning"</a>
 (with Rama Cont). Media coverage:  <a href="https://www.risk.net/asset-management/5447501/neural-network-learns-universal-model-for-stock-price-moves" target = "_blank"> Risk Magazine.</a> <i>Quantitative Finance</i>, 2019.  </li>
@@ -127,6 +115,12 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 
 	<li> <a href="https://arxiv.org/abs/1611.05545" target = "_blank"> "Stochastic Gradient Descent in Continuous Time"</a> (with K. Spiliopoulos).  <i> SIAM Journal on Financial Mathematics</i>,
 8(1), 933–961, 2017.  </li>
+
+
+<li> <a href="http://arxiv.org/abs/1911.09145" target = "_blank"> "DPM: A deep learning PDE augmentation method with application to large-eddy simulation"</a> (with J. Freund and J. MacArt). <A HREF="https://github.com/jasirign/DPM/" target="_blank"><b>Datasets.</B></A> <i>Journal of Computational Physics</i>, 2020. </li>
+
+<li> "Embedded training of neural-network sub-grid-scale turbulence models" (with J. MacArt and J. Freund). Invited Revision at <i>Physical Review of Fluids</i>, 2020. </li>
+
         <li> <a href="https://www.tandfonline.com/doi/abs/10.1080/14697688.2018.1546053?journalCode=rquf20" target = "_blank"> "Deep Learning for Limit Order Books"</a>. <i>Quantitative Finance</i>, 2018.  </li>
         <li> <a href="pdf/SGMM12b.pdf"
         target = "_blank"> "Risk Analysis for Large Pools of Loans" </a> (with K. Giesecke).  Winner of SIAM
@@ -146,7 +140,7 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
         <li> <a href="pdf/FBSDE-Algorithm_v3.pdf" target = "_blank">  "A Forward-Backward Algorithm for Stochastic Control Problems" </a> (with S. Ludwig, R. Huang, and G. Papanicolaou).<br> <i>Proceedings of the First International Conference on Operations Research and Enterprise Systems</i>. Vilamoura,  Portugal. </li>  
 <li>  Book Review on deep learning, <i> SIAM Review</i>, 60(3), September 2018.  </li>
 
-</ul>
+</ol>
 
 <FONT SIZE="4" COLOR = #000000><b> Grants </b></FONT>
 <ul>
@@ -156,11 +150,16 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 </ul>
 
 
-<FONT SIZE="4" COLOR = #000000><b> Student Researchers </b></FONT>
-<ul>
-<li> UIUC students: Lei Fan, Xiaobo Dong, Yunxiang Zhang (supervised undergraduate thesis; now a PhD student at Cornell), Giri Tarun, Abhinav (supervised MS thesis), and Rachneet Kaur. </li>
-<li> Oxford students: Deqing Jiang (PhD funded by Alan Turing Institute), Ziheng Wang (PhD funded by HSBC), Michael Giegrich (PhD funded by Deutsche Bank), and Filippo De Angelis (PhD funded by HSBC). </li>
-</ul>
+<FONT SIZE="4" COLOR = #000000><b> Supervision of PhD Theses</b></FONT>
+<ol>
+<li> Lei Fan (ISE, UIUC, 2021). PhD Thesis: "Machine Learning Methods for Pricing and Hedging Financial Derivatives." </li>
+<li> Xiaobo Dong (ISE, UIUC, 2021). PhD Thesis: "Deep Reinforcement Learning Models of High Frequency Financial Data." </li>
+<li> Ziheng Wang (Math, Oxford, 2024). PhD Thesis: "Asymptotic Analysis of Deep Reinforcement Learning." PhD funded by HSBC. </li>
+<li> Michael Giegrich (Math, Oxford, 2024). PhD Thesis: "Machine Learning Methods for Pricing and Hedging Asset-backed Securities." PhD funded by Deutsche Bank. </li>
+<li> Filippo De Angelis (Math, Oxford, 2024). PhD Thesis on machine learning models and methods in financial mathematics. PhD funded by HSBC. </li>
+<li> Deqing Jiang (Math, Oxford, 2024). PhD Thesis on deep reinforcement learning and mathematical finance. PhD funded by Alan Turing Institute. </li>
+<li> Additional supervised research: Yunxiang Zhang (supervised undergraduate thesis; now a PhD student at Cornell ORIE), Giri Tarun, Abhinav (supervised MS thesis; now a PhD student at UIUC CS), and Rachneet Kaur (PhD candidate at UIUC). </li>
+</ol>
 
 
 <FONT SIZE="4" COLOR = #000000><b>Presentations to Industry </b></FONT>
@@ -176,9 +175,18 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 
 
 
-<FONT SIZE="4" COLOR = #000000><b> Conference Organization and Professional Service</b></FONT>
+<FONT SIZE="4" COLOR = #000000><b> Professional Service</b></FONT>
 <ul>
-<li> Director of MSc program in Mathematical & Computational Finance at the University of Oxford. </li>
+<li> Currently, I am the director of the <a href="pdf/Brochure_2021_Justin.pdf" target = "_blank"> MSc program in Mathematical & Computational Finance</a> at the University of Oxford. </li>
+
+<p>
+<ul>
+<li> Co-organized an internship program for students with banks, investment companies, and hedge funds. (Participant companies include Citadel, BNP Paribas, and EDF Trading.) The quantitative research is part of the students' MSc thesis.  </li>
+<li> Organized the "Careers in Quantitative Finance" seminar series where companies present internship and job opportunities to the students. Participants in October-December, 2020 include Deutsche Bank, EDF Trading, Mazars, and NatWest Markets (formerly Royal Bank of Scotland). </li>  
+<li> Introduced new courses/topics on deep learning and high-performance computing to develop models on large-scale financial datasets. </li>
+</ul>
+</p>
+
 <li> Associate Editor, <i>Mathematical Finance</i>.</li>
 <li> Managing Editor, <i> Quantitative Finance</i>. </li>
 <li> Associate Editor, <i>Journal of Dynamics and Games</i> (an AIMS journal). </li>
@@ -197,7 +205,9 @@ Analysis of Neural Networks: A Central Limit Theorem" </a> (with K. Spiliopoulos
 
 <FONT SIZE="4" COLOR = #000000><b>Seminar and Conference Presentations</b></FONT>
     <ul>
-    <li> Seminar, Physics, University of Oxford, November 2020. </li>
+    <li> SIAM Conference on Dynamical Systems, 2021. Invited Speaker. </li>
+    <li> SIAM Conference on Financial Mathematics, 2021. Invited Speaker. </li>
+    <li> Seminar, Department of Physics, University of Oxford, November 2020. </li>
     <li> NSF Workshop on <i>Machine Learning in Transport Phenomena</i> in Dallas, Texas, 2020. Distinguished Speaker. </li>
     <li> Department of Mathematics, Brown University, Spring 2021. </li>
     <li> Department of Mathematics, University of Minnesota, February 2021. </li>
